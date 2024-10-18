@@ -1,0 +1,17 @@
+{
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#000000", // Cambia el color de fondo cuando la ventana está activa.
+      "titleBar.activeForeground": "#41e40f", // Cambia el color del texto cuando la ventana está activa.
+      "titleBar.inactiveBackground": "#000000", // Cambia el color de fondo cuando la ventana está inactiva.
+      "titleBar.inactiveForeground": "#185e03", // Cambia el color del texto cuando la ventana está inactiva.
+      // "window.activeBorder": "#3d0fe4", // Cambia el color del borde de la ventana activa.
+      // "window.inactiveBorder": "#000000", // Cambia el color del borde de la ventana inactiva.
+
+      "activityBar.background": "#000000",  // Color de fondo de la barra de actividad.
+      "activityBar.foreground": "#41e40f",  // Color de los íconos en la barra de actividad.
+      "activityBar.inactiveForeground": "#145301",  // Color de los íconos inactivos.
+      "activityBar.border": "#41e40f",  // Color del borde de la barra de actividad (personaliza este valor para que el borde sea visible).
+
+    }
+  }
+  
